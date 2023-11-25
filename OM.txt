@@ -1,0 +1,309 @@
+site	habitat	treatment	sediment depth, cm	 totalOM 
+Abades	edge	baseline	1	 3.84    
+Abades	edge	baseline	1	 5.98    
+Abades	edge	baseline	1	 3.65    
+Abades	edge	baseline	5	 2.82    
+Abades	edge	baseline	5	 4.35    
+Abades	edge	baseline	5	 4.29    
+Abades	edge	baseline	10	 4.02    
+Abades	edge	baseline	10	 3.98    
+Abades	edge	baseline	10	 2.57    
+Abades	edge	C	1	 5.94    
+Abades	edge	C	1	 4.74    
+Abades	edge	C	1	 5.41    
+Abades	edge	C	1	 5.30    
+Abades	edge	C	5	 4.17    
+Abades	edge	C	5	 3.44    
+Abades	edge	C	5	 3.45    
+Abades	edge	C	5	 4.61    
+Abades	edge	C	5	 4.21    
+Abades	edge	C	10	 3.21    
+Abades	edge	C	10	 3.48    
+Abades	edge	C	10	 3.88    
+Abades	edge	C	10	 5.02    
+Abades	edge	C	10	 4.99    
+Abades	edge	OP	1	 4.49    
+Abades	edge	OP	1	 7.17    
+Abades	edge	OP	1	 5.48    
+Abades	edge	OP	1	 8.23    
+Abades	edge	OP	1	 5.99    
+Abades	edge	OP	5	 3.34    
+Abades	edge	OP	5	 5.71    
+Abades	edge	OP	5	 4.74    
+Abades	edge	OP	5	 4.12    
+Abades	edge	OP	5	 6.91    
+Abades	edge	OP	5	 7.34    
+Abades	edge	OP	10	 3.73    
+Abades	edge	OP	10	 3.98    
+Abades	edge	OP	10	 2.69    
+Abades	edge	OP	10	 5.75    
+Abades	edge	OP	10	 6.41    
+Abades	edge	SC	1	 3.89    
+Abades	edge	SC	1	 6.43    
+Abades	edge	SC	1	 3.11    
+Abades	edge	SC	1	 4.55    
+Abades	edge	SC	5	 2.96    
+Abades	edge	SC	5	 4.11    
+Abades	edge	SC	5	 4.21    
+Abades	edge	SC	5	 6.60    
+Abades	edge	SC	10	 4.47    
+Abades	edge	SC	10	 7.26    
+Abades	middle	baseline	1	 3.90    
+Abades	middle	baseline	1	 3.67    
+Abades	middle	baseline	1	 3.22    
+Abades	middle	baseline	5	 3.27    
+Abades	middle	baseline	5	 4.17    
+Abades	middle	baseline	5	 3.63    
+Abades	middle	baseline	10	 3.83    
+Abades	middle	baseline	10	 5.56    
+Abades	middle	baseline	10	 4.47    
+Abades	middle	C	1	 2.31    
+Abades	middle	C	1	 3.37    
+Abades	middle	C	1	 3.81    
+Abades	middle	C	1	 3.03    
+Abades	middle	C	1	 2.33    
+Abades	middle	C	5	 3.20    
+Abades	middle	C	5	 2.62    
+Abades	middle	C	5	 3.42    
+Abades	middle	C	5	 2.94    
+Abades	middle	C	5	 3.03    
+Abades	middle	C	10	 4.77    
+Abades	middle	C	10	 2.92    
+Abades	middle	C	10	 4.44    
+Abades	middle	C	10	 2.78    
+Abades	middle	C	10	 2.27    
+Abades	middle	OP	1	 3.85    
+Abades	middle	OP	1	 3.10    
+Abades	middle	OP	1	 4.11    
+Abades	middle	OP	1	 4.68    
+Abades	middle	OP	5	 3.18    
+Abades	middle	OP	5	 3.15    
+Abades	middle	OP	5	 4.02    
+Abades	middle	OP	5	 3.06    
+Abades	middle	OP	10	 4.01    
+Abades	middle	OP	10	 3.53    
+Abades	middle	OP	10	 3.78    
+Abades	middle	OP	10	 2.02    
+Abades	middle	SC	1	 3.64    
+Abades	middle	SC	1	 2.33    
+Abades	middle	SC	1	 3.03    
+Abades	middle	SC	1	 2.88    
+Abades	middle	SC	1	 3.18    
+Abades	middle	SC	5	 3.33    
+Abades	middle	SC	5	 3.60    
+Abades	middle	SC	5	 3.97    
+Abades	middle	SC	5	 3.75    
+Abades	middle	SC	5	 2.34    
+Abades	middle	SC	10	 2.70    
+Abades	middle	SC	10	 2.59    
+Abades	middle	SC	10	 4.26    
+Abades	middle	SC	10	 3.98    
+Abades	middle	SC	10	 3.55    
+Abades	sand	baseline	1	 4.54    
+Abades	sand	baseline	1	 4.14    
+Abades	sand	baseline	1	 3.92    
+Abades	sand	baseline	5	 4.72    
+Abades	sand	baseline	5	 4.54    
+Abades	sand	baseline	5	 3.67    
+Abades	sand	baseline	10	 4.61    
+Abades	sand	baseline	10	 4.21    
+Abades	sand	baseline	10	 3.57    
+Abades	sand	C	1	 2.63    
+Abades	sand	C	1	 4.94    
+Abades	sand	C	1	 2.95    
+Abades	sand	C	1	 3.01    
+Abades	sand	C	1	 2.65    
+Abades	sand	C	5	 4.44    
+Abades	sand	C	5	 3.35    
+Abades	sand	C	5	 2.88    
+Abades	sand	C	5	 3.16    
+Abades	sand	C	5	 2.42    
+Abades	sand	C	10	 3.85    
+Abades	sand	C	10	 4.75    
+Abades	sand	C	10	 2.62    
+Abades	sand	C	10	 2.58    
+Abades	sand	C	10	 4.65    
+Abades	sand	OP	1	 5.95    
+Abades	sand	OP	1	 2.13    
+Abades	sand	OP	1	 2.71    
+Abades	sand	OP	1	 2.08    
+Abades	sand	OP	1	 2.74    
+Abades	sand	OP	5	 2.86    
+Abades	sand	OP	5	 2.55    
+Abades	sand	OP	5	 2.08    
+Abades	sand	OP	5	 2.63    
+Abades	sand	OP	5	 5.74    
+Abades	sand	OP	10	 3.70    
+Abades	sand	OP	10	 2.25    
+Abades	sand	OP	10	 2.98    
+Abades	sand	OP	10	 2.46    
+Abades	sand	OP	10	 3.52    
+Abades	sand	SC	1	 2.40    
+Abades	sand	SC	1	 2.08    
+Abades	sand	SC	1	 3.17    
+Abades	sand	SC	1	 1.88    
+Abades	sand	SC	5	 2.58    
+Abades	sand	SC	5	 2.56    
+Abades	sand	SC	5	 2.37    
+Abades	sand	SC	5	 2.66    
+Abades	sand	SC	5	 2.68    
+Abades	sand	SC	10	 2.52    
+Abades	sand	SC	10	 3.90    
+Abades	sand	SC	10	 2.54    
+Abades	sand	SC	10	 3.25    
+Abades	sand	SC	10	 2.55    
+Abades	sand	SC	10	 2.36    
+El Medano	edge	baseline	1	 2.62    
+El Medano	edge	baseline	1	 2.03    
+El Medano	edge	baseline	1	 2.41    
+El Medano	edge	baseline	5	 4.37    
+El Medano	edge	baseline	5	 2.87    
+El Medano	edge	baseline	5	 2.66    
+El Medano	edge	baseline	10	 2.77    
+El Medano	edge	baseline	10	 3.16    
+El Medano	edge	baseline	10	 2.30    
+El Medano	edge	C	1	 2.10    
+El Medano	edge	C	1	 2.63    
+El Medano	edge	C	1	 1.96    
+El Medano	edge	C	1	 1.93    
+El Medano	edge	C	1	 1.88    
+El Medano	edge	C	5	 2.67    
+El Medano	edge	C	5	 2.68    
+El Medano	edge	C	5	 4.58    
+El Medano	edge	C	5	 2.26    
+El Medano	edge	C	5	 2.47    
+El Medano	edge	C	10	 2.36    
+El Medano	edge	C	10	 2.13    
+El Medano	edge	C	10	 3.25    
+El Medano	edge	C	10	 3.06    
+El Medano	edge	C	10	 2.27    
+El Medano	edge	OP	1	 2.90    
+El Medano	edge	OP	1	 2.64    
+El Medano	edge	OP	1	 1.35    
+El Medano	edge	OP	1	 3.30    
+El Medano	edge	OP	5	 2.42    
+El Medano	edge	OP	5	 2.18    
+El Medano	edge	OP	5	 1.98    
+El Medano	edge	OP	5	 3.05    
+El Medano	edge	OP	10	 1.92    
+El Medano	edge	OP	10	 1.44    
+El Medano	edge	OP	10	 2.25    
+El Medano	edge	SC	1	 2.25    
+El Medano	edge	SC	1	 3.18    
+El Medano	edge	SC	1	 3.43    
+El Medano	edge	SC	1	 2.61    
+El Medano	edge	SC	1	 3.38    
+El Medano	edge	SC	5	 7.68    
+El Medano	edge	SC	5	 1.80    
+El Medano	edge	SC	5	 2.72    
+El Medano	edge	SC	5	 2.79    
+El Medano	edge	SC	5	 3.39    
+El Medano	edge	SC	10	 2.14    
+El Medano	edge	SC	10	 2.25    
+El Medano	edge	SC	10	 3.12    
+El Medano	edge	SC	10	 1.97    
+El Medano	middle	baseline	1	 1.48    
+El Medano	middle	baseline	1	 1.85    
+El Medano	middle	baseline	1	 1.84    
+El Medano	middle	baseline	5	 1.43    
+El Medano	middle	baseline	5	 1.97    
+El Medano	middle	baseline	5	 2.38    
+El Medano	middle	baseline	10	 1.94    
+El Medano	middle	baseline	10	 5.61    
+El Medano	middle	baseline	10	 2.01    
+El Medano	middle	C	1	 2.21    
+El Medano	middle	C	1	 2.08    
+El Medano	middle	C	1	 2.11    
+El Medano	middle	C	1	 1.86    
+El Medano	middle	C	1	 1.64    
+El Medano	middle	C	5	 2.03    
+El Medano	middle	C	5	 2.35    
+El Medano	middle	C	5	 2.33    
+El Medano	middle	C	5	 1.24    
+El Medano	middle	C	5	 1.82    
+El Medano	middle	C	10	 2.29    
+El Medano	middle	C	10	 2.20    
+El Medano	middle	C	10	 1.82    
+El Medano	middle	C	10	 2.33    
+El Medano	middle	C	10	 3.43    
+El Medano	middle	OP	1	 1.57    
+El Medano	middle	OP	1	 2.17    
+El Medano	middle	OP	1	 1.89    
+El Medano	middle	OP	1	 1.42    
+El Medano	middle	OP	1	 1.83    
+El Medano	middle	OP	5	 1.76    
+El Medano	middle	OP	5	 1.57    
+El Medano	middle	OP	5	 1.62    
+El Medano	middle	OP	5	 1.63    
+El Medano	middle	OP	5	 1.62    
+El Medano	middle	OP	10	 2.26    
+El Medano	middle	OP	10	 2.04    
+El Medano	middle	OP	10	 2.00    
+El Medano	middle	SC	1	 1.48    
+El Medano	middle	SC	1	 1.82    
+El Medano	middle	SC	1	 1.80    
+El Medano	middle	SC	1	 1.76    
+El Medano	middle	SC	5	 1.06    
+El Medano	middle	SC	5	 2.06    
+El Medano	middle	SC	5	 1.46    
+El Medano	middle	SC	5	 1.40    
+El Medano	middle	SC	5	 1.68      
+El Medano	sand	baseline	1	 2.00    
+El Medano	sand	baseline	1	 2.74    
+El Medano	sand	baseline	1	 2.03    
+El Medano	sand	baseline	5	 1.85    
+El Medano	sand	baseline	5	 1.69    
+El Medano	sand	baseline	5	 1.79    
+El Medano	sand	baseline	10	 1.99    
+El Medano	sand	baseline	10	 2.64    
+El Medano	sand	baseline	10	 2.45    
+El Medano	sand	C	1	 1.83    
+El Medano	sand	C	1	 1.91    
+El Medano	sand	C	1	 1.64    
+El Medano	sand	C	1	 2.13    
+El Medano	sand	C	1	 2.02    
+El Medano	sand	C	5	 2.22    
+El Medano	sand	C	5	 1.92    
+El Medano	sand	C	5	 1.70    
+El Medano	sand	C	5	 1.83    
+El Medano	sand	C	5	 1.94    
+El Medano	sand	C	10	 1.79    
+El Medano	sand	C	10	 2.04    
+El Medano	sand	C	10	 2.05    
+El Medano	sand	C	10	 1.81    
+El Medano	sand	C	10	 1.67    
+El Medano	sand	OP	1	 2.40    
+El Medano	sand	OP	1	 2.72    
+El Medano	sand	OP	1	 2.17    
+El Medano	sand	OP	1	 2.35    
+El Medano	sand	OP	1	 2.13    
+El Medano	sand	OP	5	 2.00    
+El Medano	sand	OP	5	 1.78    
+El Medano	sand	OP	5	 1.60    
+El Medano	sand	OP	5	 2.02    
+El Medano	sand	OP	5	 1.60    
+El Medano	sand	OP	10	 2.01    
+El Medano	sand	OP	10	 2.34    
+El Medano	sand	OP	10	 1.81    
+El Medano	sand	OP	10	 1.83    
+El Medano	sand	OP	10	 1.72    
+El Medano	sand	SC	1	 2.62    
+El Medano	sand	SC	1	 2.67    
+El Medano	sand	SC	1	 1.79    
+El Medano	sand	SC	1	 2.02    
+El Medano	sand	SC	1	 1.93    
+El Medano	sand	SC	5	 2.02    
+El Medano	sand	SC	5	 1.77    
+El Medano	sand	SC	5	 1.84    
+El Medano	sand	SC	5	 1.14    
+El Medano	sand	SC	5	 2.02    
+El Medano	sand	SC	10	 1.89    
+El Medano	sand	SC	10	 1.97    
+El Medano	sand	SC	10	 1.98    
+El Medano	sand	SC	10	 1.84    
+El Medano	sand	SC	10	 1.91    
+El Medano	edge	SC	1	 1.82    
+El Medano	edge	SC	10	 2.76    
+El Medano	middle	OP	5	 1.95    
+El Medano	middle	OP	10	 2.36    
+El Medano	middle	OP	1	 2.07

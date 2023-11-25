@@ -1,0 +1,693 @@
+site	habitat	treatment	sample id	family	quantity
+El Medano	sand	C	M_S_C_4	Ostracoda	2
+El Medano	sand	C	M_S_C_4	Actiniaria	3
+El Medano	sand	C	M_S_C_4	Onuphidae	2
+El Medano	sand	C	M_S_C_4	Cerithiopsidae	2
+El Medano	sand	C	M_S_C_4	Nassariidae	1
+El Medano	sand	OP	M_S_OP_3	Ostracoda	1
+El Medano	sand	OP	M_S_OP_3	Nassariidae	2
+El Medano	sand	OP	M_S_OP_3	Gammaridea	1
+El Medano	sand	C	M_S_C_2	Actiniaria	4
+El Medano	sand	C	M_S_C_2	Apseudidae	3
+El Medano	sand	C	M_S_C_2	Onuphidae	4
+El Medano	sand	C	M_S_C_2	Ostracoda	3
+El Medano	sand	C	M_S_C_2	Nereididae	5
+El Medano	sand	C	M_S_C_2	Aphroditidae	1
+El Medano	sand	C	M_S_C_2	Rissoidae	1
+El Medano	sand	C	M_S_C_2	Cardiidae	1
+El Medano	sand	C	M_S_C_2	Cerithiopsidae	1
+El Medano	sand	SC	M_S_SC_1	Ostracoda	2
+El Medano	sand	SC	M_S_SC_1	Cerithiopsidae	1
+El Medano	sand	SC	M_S_SC_1	Rissoidae	1
+El Medano	sand	SC	M_S_SC_1	Eulimidae	1
+El Medano	sand	SC	M_S_SC_1	Cardiidae	2
+El Medano	sand	SC	M_S_SC_1	Tellinidae	1
+El Medano	sand	OP	M_S_OP_1	Eunicidae	1
+El Medano	sand	OP	M_S_OP_1	Orbiniidae	1
+El Medano	sand	OP	M_S_OP_1	Trochidae	1
+El Medano	sand	C	M_S_C_1	Apseudidae	1
+El Medano	sand	C	M_S_C_1	Ostracoda	12
+El Medano	sand	C	M_S_C_1	Maldanidae	1
+El Medano	sand	SC	M_S_SC_3	Ostracoda	3
+El Medano	sand	SC	M_S_SC_3	Paraonidae	1
+El Medano	sand	SC	M_S_SC_3	Cerithiopsidae	2
+El Medano	sand	SC	M_S_SC_3	Rissoidae	1
+El Medano	sand	OP	M_S_OP_4	Gammaridea	1
+El Medano	sand	OP	M_S_OP_4	Orbiniidae	2
+El Medano	sand	OP	M_S_OP_4	Ostracoda	1
+El Medano	sand	OP	M_S_OP_4	Cerithiopsidae	1
+Abades	edge	SC	A_E_SC_3	Apseudidae	107
+Abades	edge	SC	A_E_SC_3	Actiniaria	11
+Abades	edge	SC	A_E_SC_3	Ostracoda	7
+Abades	edge	SC	A_E_SC_3	Enchytraeidae	17
+Abades	edge	SC	A_E_SC_3	Gammaridea	6
+Abades	edge	SC	A_E_SC_3	Onuphidae	2
+Abades	edge	SC	A_E_SC_3	Naididae	42
+Abades	edge	SC	A_E_SC_3	Eunicidae	1
+Abades	edge	SC	A_E_SC_3	Capitellidae	1
+Abades	edge	SC	A_E_SC_3	Cardiidae	1
+Abades	edge	SC	A_E_SC_3	Solemyidae	1
+Abades	edge	SC	A_E_SC_3	Cerithiopsidae	1
+Abades	edge	SC	A_E_SC_3	Nassariidae	1
+Abades	edge	SC	A_E_SC_3	Cylichnidae	1
+Abades	edge	SC	A_E_SC_3	Tellinidae	3
+Abades	sand	OP	A_S_OP_1	Apseudidae	16
+Abades	sand	OP	A_S_OP_1	Actiniaria	4
+Abades	sand	OP	A_S_OP_1	Onuphidae	6
+Abades	sand	OP	A_S_OP_1	Naididae	34
+Abades	sand	OP	A_S_OP_1	Syllidae	11
+Abades	sand	OP	A_S_OP_1	Nematoda	4
+Abades	sand	OP	A_S_OP_1	Enchytraeidae	7
+Abades	sand	OP	A_S_OP_1	Gammaridea	2
+Abades	sand	OP	A_S_OP_1	Eunicidae	1
+Abades	sand	OP	A_S_OP_1	Cerithiopsidae	2
+Abades	sand	OP	A_S_OP_1	Nassariidae	3
+Abades	sand	OP	A_S_OP_1	Tellinidae	1
+Abades	edge	OP	A_E_OP_2	Onuphidae	7
+Abades	edge	OP	A_E_OP_2	Actiniaria	18
+Abades	edge	OP	A_E_OP_2	Apseudidae	72
+Abades	edge	OP	A_E_OP_2	Talitridae	1
+Abades	edge	OP	A_E_OP_2	Leptocheliidae	1
+Abades	edge	OP	A_E_OP_2	Ostracoda	1
+Abades	edge	OP	A_E_OP_2	Enchytraeidae	27
+Abades	edge	OP	A_E_OP_2	Gammaridea	2
+Abades	edge	OP	A_E_OP_2	Nematoda	14
+Abades	edge	OP	A_E_OP_2	Syllidae	15
+Abades	edge	OP	A_E_OP_2	Naididae	42
+Abades	edge	OP	A_E_OP_2	Eunicidae	1
+Abades	edge	OP	A_E_OP_2	Nereididae	1
+Abades	edge	OP	A_E_OP_2	Tellinidae	4
+Abades	edge	OP	A_E_OP_2	Cardiidae	2
+Abades	edge	OP	A_E_OP_2	Rissoidae	1
+Abades	edge	SC	A_E_SC_3.1	Nereididae	2
+Abades	edge	SC	A_E_SC_3.1	Actiniaria	2
+Abades	edge	SC	A_E_SC_3.1	Apseudidae	18
+Abades	edge	SC	A_E_SC_3.1	Onuphidae	1
+Abades	edge	SC	A_E_SC_3.1	Naididae	25
+Abades	edge	SC	A_E_SC_3.1	Enchytraeidae	8
+Abades	edge	SC	A_E_SC_3.1	Gammaridea	3
+Abades	edge	SC	A_E_SC_3.1	Nematoda	2
+Abades	edge	SC	A_E_SC_3.1	Cirolanidae	1
+Abades	edge	SC	A_E_SC_3.1	Eunicidae	2
+Abades	edge	SC	A_E_SC_3.1	Naticidae	1
+Abades	edge	SC	A_E_SC_3.1	Nassariidae	1
+Abades	edge	SC	A_E_SC_3.1	Cerithiopsidae	3
+Abades	edge	SC	A_E_SC_3.1	Tellinidae	3
+Abades	edge	SC	A_E_SC_3.1	Cylichnidae	1
+Abades	edge	SC	A_E_SC_3.1	Rissoidae	1
+El Medano	sand	SC	M_S_SC_4	Onuphidae	1
+El Medano	sand	SC	M_S_SC_4	Enchytraeidae	1
+El Medano	sand	SC	M_S_SC_4	Nematoda	4
+El Medano	sand	SC	M_S_SC_4	Ostracoda	3
+El Medano	sand	SC	M_S_SC_4	Naididae	2
+El Medano	sand	SC	M_S_SC_4	Gammaridea	1
+El Medano	sand	SC	M_S_SC_4	Cerithiopsidae	2
+El Medano	sand	OP	M_S_OP_5.2	Onuphidae	1
+El Medano	sand	OP	M_S_OP_5.2	Enchytraeidae	3
+El Medano	sand	OP	M_S_OP_5.2	Ostracoda	1
+El Medano	sand	OP	M_S_OP_5.2	Naididae	1
+El Medano	sand	OP	M_S_OP_5.2	Nematoda	2
+El Medano	sand	OP	M_S_OP_5.2	Cerithiopsidae	1
+El Medano	middle	OP	M_M_OP_2.1	Ostracoda	16
+El Medano	middle	OP	M_M_OP_2.1	Onuphidae	14
+El Medano	middle	OP	M_M_OP_2.1	Actiniaria	2
+El Medano	middle	OP	M_M_OP_2.1	Eunicidae	3
+El Medano	middle	OP	M_M_OP_2.1	Enchytraeidae	15
+El Medano	middle	OP	M_M_OP_2.1	Anarthruridae	3
+El Medano	middle	OP	M_M_OP_2.1	Naididae	15
+El Medano	middle	OP	M_M_OP_2.1	Nematoda	3
+El Medano	middle	OP	M_M_OP_2.1	Trochidae	1
+El Medano	middle	OP	M_M_OP_2.1	Cylichnidae	1
+El Medano	edge	SC	M_E_SC_3	Onuphidae	27
+El Medano	edge	SC	M_E_SC_3	Apseudidae	5
+El Medano	edge	SC	M_E_SC_3	Eunicidae	1
+El Medano	edge	SC	M_E_SC_3	Ostracoda	28
+El Medano	edge	SC	M_E_SC_3	Maldanidae	5
+El Medano	edge	SC	M_E_SC_3	Enchytraeidae	10
+El Medano	edge	SC	M_E_SC_3	Nereididae	6
+El Medano	edge	SC	M_E_SC_3	Actiniaria	5
+El Medano	edge	SC	M_E_SC_3	Majidae	2
+El Medano	edge	SC	M_E_SC_3	Mysidae	3
+El Medano	edge	SC	M_E_SC_3	Bopyridae	1
+El Medano	edge	SC	M_E_SC_3	Anarthruridae	4
+El Medano	edge	SC	M_E_SC_3	Gammaridea	6
+El Medano	edge	SC	M_E_SC_3	Naididae	1
+El Medano	edge	SC	M_E_SC_3	Naticidae	1
+El Medano	edge	SC	M_E_SC_3	Trochidae	1
+El Medano	middle	SC	M_M_SC_5.1	Hadziida	2
+El Medano	middle	SC	M_M_SC_5.1	Syllidae	1
+El Medano	middle	SC	M_M_SC_5.1	Onuphidae	3
+El Medano	middle	SC	M_M_SC_5.1	Sipuncula	1
+El Medano	middle	SC	M_M_SC_5.1	Naididae	24
+El Medano	middle	SC	M_M_SC_5.1	Enchytraeidae	15
+El Medano	middle	SC	M_M_SC_5.1	Ostracoda	2
+El Medano	middle	SC	M_M_SC_5.1	Nematoda	2
+El Medano	middle	SC	M_M_SC_5.1	Maldanidae	2
+El Medano	middle	SC	M_M_SC_5.1	Trochidae	1
+El Medano	middle	SC	M_M_SC_5.1	Epitoniidae	1
+El Medano	middle	SC	M_M_SC_5.1	Naticidae	1
+Abades	edge	C	A_E_C_2.1	Enchytraeidae	32
+Abades	edge	C	A_E_C_2.1	Naididae	89
+Abades	edge	C	A_E_C_2.1	Ostracoda	2
+Abades	edge	C	A_E_C_2.1	Actiniaria	8
+Abades	edge	C	A_E_C_2.1	Nereididae	3
+Abades	edge	C	A_E_C_2.1	Onuphidae	9
+Abades	edge	C	A_E_C_2.1	Capitellidae	1
+Abades	edge	C	A_E_C_2.1	Majidae	1
+Abades	edge	C	A_E_C_2.1	Apseudidae	2
+Abades	edge	C	A_E_C_2.1	Solemyidae	3
+Abades	edge	C	A_E_C_2.1	Cerithiopsidae	1
+Abades	edge	C	A_E_C_2.1	Tellinidae	1
+Abades	middle	C	A_M_C_3.2	Ostracoda	3
+Abades	middle	C	A_M_C_3.2	Enchytraeidae	8
+Abades	middle	C	A_M_C_3.2	Leptocheliidae	1
+Abades	middle	C	A_M_C_3.2	Actiniaria	1
+Abades	middle	C	A_M_C_3.2	Naididae	3
+Abades	middle	C	A_M_C_3.2	Mysidae	1
+Abades	middle	C	A_M_C_3.2	Solemyidae	2
+Abades	middle	C	A_M_C_3.2	Tellinidae	1
+Abades	middle	C	A_M_C_3.2	Nassariidae	1
+Abades	middle	SC	A_M_SC_1.2	Onuphidae	1
+Abades	middle	SC	A_M_SC_1.2	Sipuncula	1
+Abades	middle	SC	A_M_SC_1.2	Apseudidae	7
+Abades	middle	SC	A_M_SC_1.2	Actiniaria	2
+Abades	middle	SC	A_M_SC_1.2	Naididae	8
+Abades	middle	SC	A_M_SC_1.2	Ostracoda	1
+Abades	middle	SC	A_M_SC_1.2	Enchytraeidae	1
+Abades	middle	SC	A_M_SC_1.2	Cerithiopsidae	3
+Abades	middle	SC	A_M_SC_1.2	Nassariidae	1
+Abades	middle	SC	A_M_SC_1.2	Cardiidae	1
+El Medano	edge	OP	M_E_OP_1.1	Onuphidae	41
+El Medano	edge	OP	M_E_OP_1.1	Actiniaria	16
+El Medano	edge	OP	M_E_OP_1.1	Ostracoda	10
+El Medano	edge	OP	M_E_OP_1.1	Apseudidae	8
+El Medano	edge	OP	M_E_OP_1.1	Mysidae	1
+El Medano	edge	OP	M_E_OP_1.1	Anarthruridae	5
+El Medano	edge	OP	M_E_OP_1.1	Anthuridae	1
+El Medano	edge	OP	M_E_OP_1.1	Gammaridea	2
+El Medano	edge	OP	M_E_OP_1.1	Sabellidae	1
+El Medano	edge	OP	M_E_OP_1.1	Janiridae	2
+El Medano	edge	OP	M_E_OP_1.1	Enchytraeidae	10
+El Medano	edge	OP	M_E_OP_1.1	Naididae	42
+El Medano	edge	OP	M_E_OP_1.1	Capitellidae	1
+El Medano	edge	OP	M_E_OP_1.1	Phoxichilidiidae	2
+El Medano	edge	OP	M_E_OP_1.1	Majidae	1
+El Medano	edge	OP	M_E_OP_1.1	Solemyidae	2
+El Medano	edge	OP	M_E_OP_1.1	Trochidae	4
+El Medano	edge	OP	M_E_OP_1.1	Cerithiopsidae	4
+El Medano	edge	OP	M_E_OP_1.1	Rissoidae	5
+El Medano	edge	OP	M_E_OP_1.1	Pyramidellidae	1
+El Medano	edge	OP	M_E_OP_1.1	Retusidae	1
+El Medano	edge	OP	M_E_OP_1.1	Cardiidae	3
+El Medano	edge	OP	M_E_OP_1.1	Littorinidae	1
+El Medano	edge	OP	M_E_OP_1.1	Phasianellidae	1
+El Medano	edge	OP	M_E_OP_1.1	Naticidae	1
+El Medano	edge	OP	M_E_OP_1.1	Tellinidae	1
+El Medano	middle	SC	M_M_SC_3.2	Actiniaria	1
+El Medano	middle	SC	M_M_SC_3.2	Naididae	6
+El Medano	middle	SC	M_M_SC_3.2	Enchytraeidae	2
+El Medano	middle	SC	M_M_SC_3.2	Eunicidae	1
+El Medano	middle	SC	M_M_SC_3.2	Solemyidae	1
+El Medano	middle	SC	M_M_SC_3.2	Trochidae	1
+El Medano	middle	SC	M_M_SC_3.2	Cerithiopsidae	3
+El Medano	middle	SC	M_M_SC_3.2	Rissoidae	1
+El Medano	middle	C	M_M_C_1	Onuphidae	9
+El Medano	middle	C	M_M_C_1	Ostracoda	5
+El Medano	middle	C	M_M_C_1	Orbiniidae	2
+El Medano	middle	C	M_M_C_1	Anthuridae	4
+El Medano	middle	C	M_M_C_1	Actiniaria	8
+El Medano	middle	C	M_M_C_1	Apseudidae	2
+El Medano	middle	C	M_M_C_1	Enchytraeidae	1
+El Medano	middle	C	M_M_C_1	Naididae	1
+El Medano	middle	C	M_M_C_1	Cirolanidae	1
+El Medano	edge	SC	M_E_SC_2	Apseudidae	15
+El Medano	edge	SC	M_E_SC_2	Onuphidae	16
+El Medano	edge	SC	M_E_SC_2	Naididae	6
+El Medano	edge	SC	M_E_SC_2	Ostracoda	8
+El Medano	edge	SC	M_E_SC_2	Actiniaria	8
+El Medano	edge	SC	M_E_SC_2	Anthuridae	2
+El Medano	edge	SC	M_E_SC_2	Enchytraeidae	6
+El Medano	edge	SC	M_E_SC_2	Gammaridea	1
+El Medano	edge	SC	M_E_SC_2	Hadziida	1
+El Medano	edge	SC	M_E_SC_2	Anarthruridae	4
+El Medano	edge	SC	M_E_SC_2	Maldanidae	1
+El Medano	edge	SC	M_E_SC_2	Eunicidae	1
+El Medano	edge	SC	M_E_SC_2	Solemyidae	1
+El Medano	edge	SC	M_E_SC_2	Trochidae	3
+El Medano	edge	SC	M_E_SC_2	Cardiidae	1
+El Medano	edge	SC	M_E_SC_2	Rissoidae	1
+El Medano	edge	SC	M_E_SC_2	Cerithiopsidae	2
+El Medano	edge	C	M_E_C_2.1	Onuphidae	25
+El Medano	edge	C	M_E_C_2.1	Apseudidae	1
+El Medano	edge	C	M_E_C_2.1	Ostracoda	8
+El Medano	edge	C	M_E_C_2.1	Gammaridea	15
+El Medano	edge	C	M_E_C_2.1	Portunidae	1
+El Medano	edge	C	M_E_C_2.1	Retusidae	1
+El Medano	edge	C	M_E_C_2.1	Nereididae	2
+El Medano	edge	C	M_E_C_2.1	Naididae	6
+El Medano	edge	C	M_E_C_2.1	Enchytraeidae	5
+El Medano	edge	C	M_E_C_2.1	Actiniaria	2
+El Medano	edge	C	M_E_C_2.1	Anthuridae	4
+El Medano	edge	C	M_E_C_2.1	Sabellidae	1
+El Medano	edge	C	M_E_C_2.1	Trochidae	2
+El Medano	edge	C	M_E_C_2.1	Solemyidae	1
+El Medano	edge	C	M_E_C_2.1	Rissoidae	1
+El Medano	edge	C	M_E_C_2.1	Naticidae	3
+El Medano	edge	C	M_E_C_2.1	Cerithiopsidae	6
+El Medano	edge	C	M_E_C_2.1	Triviidae	1
+El Medano	edge	C	M_E_C_2.1	Nassariidae	1
+El Medano	edge	OP	M_E_OP_2.2	Apseudidae	7
+El Medano	edge	OP	M_E_OP_2.2	Ostracoda	8
+El Medano	edge	OP	M_E_OP_2.2	Onuphidae	12
+El Medano	edge	OP	M_E_OP_2.2	Solemyidae	1
+El Medano	edge	OP	M_E_OP_2.2	Naididae	4
+El Medano	edge	OP	M_E_OP_2.2	Gammaridea	4
+El Medano	edge	OP	M_E_OP_2.2	Enchytraeidae	2
+El Medano	edge	OP	M_E_OP_2.2	Joeropsididae	1
+El Medano	edge	OP	M_E_OP_2.2	Eunicidae	1
+Abades	sand	OP	A_S_OP_2.2	Ostracoda	1
+Abades	sand	OP	A_S_OP_2.2	Naididae	47
+Abades	sand	OP	A_S_OP_2.2	Onuphidae	3
+Abades	sand	OP	A_S_OP_2.2	Apseudidae	14
+Abades	sand	OP	A_S_OP_2.2	Capitellidae	1
+Abades	sand	OP	A_S_OP_2.2	Enchytraeidae	2
+Abades	sand	OP	A_S_OP_2.2	Gammaridea	1
+Abades	sand	OP	A_S_OP_2.2	Solemyidae	1
+Abades	sand	OP	A_S_OP_2.2	Trochidae	1
+Abades	sand	OP	A_S_OP_2.2	Littorinidae	1
+El Medano	edge	SC	M_E_SC_4.2	Apseudidae	1
+El Medano	edge	SC	M_E_SC_4.2	Naididae	4
+El Medano	edge	SC	M_E_SC_4.2	Ostracoda	2
+El Medano	edge	SC	M_E_SC_4.2	Maldanidae	1
+El Medano	edge	SC	M_E_SC_4.2	Enchytraeidae	2
+El Medano	edge	SC	M_E_SC_4.2	Gammaridea	1
+El Medano	edge	SC	M_E_SC_4.2	Littorinidae	1
+El Medano	edge	SC	M_E_SC_4.2	Naticidae	1
+El Medano	edge	SC	M_E_SC_4.2	Cardiidae	1
+Abades	sand	C	A_S_C_2	Apseudidae	8
+Abades	sand	C	A_S_C_2	Onuphidae	1
+Abades	sand	C	A_S_C_2	Solemyidae	1
+Abades	sand	C	A_S_C_2	Enchytraeidae	1
+Abades	sand	C	A_S_C_2	Naididae	7
+Abades	sand	C	A_S_C_2	Ostracoda	2
+Abades	sand	C	A_S_C_2	Actiniaria	3
+Abades	sand	C	A_S_C_2	Nematoda	4
+Abades	sand	C	A_S_C_2	Opheliidae	1
+El Medano	middle	OP	M_M_OP_4.1	Onuphidae	2
+El Medano	middle	OP	M_M_OP_4.1	Paraonidae	1
+El Medano	middle	OP	M_M_OP_4.1	Naididae	50
+El Medano	middle	OP	M_M_OP_4.1	Enchytraeidae	1
+El Medano	edge	SC	M_E__SC_1.2	Onuphidae	10
+El Medano	edge	SC	M_E__SC_1.2	Ostracoda	7
+El Medano	edge	SC	M_E__SC_1.2	Sigalionidae	2
+El Medano	edge	SC	M_E__SC_1.2	Actiniaria	1
+El Medano	edge	SC	M_E__SC_1.2	Naididae	17
+El Medano	edge	SC	M_E__SC_1.2	Enchytraeidae	7
+El Medano	edge	SC	M_E__SC_1.2	Apseudidae	4
+El Medano	edge	SC	M_E__SC_1.2	Anthuridae	1
+El Medano	edge	SC	M_E__SC_1.2	Gammaridea	2
+El Medano	edge	SC	M_E__SC_1.2	Tellinidae	2
+El Medano	edge	SC	M_E__SC_1.2	Trochidae	1
+El Medano	edge	SC	M_E__SC_1.2	Rissoidae	1
+El Medano	edge	SC	M_E__SC_1.2	Mangeliidae	1
+El Medano	edge	SC	M_E__SC_1.2	Triviidae	1
+Abades	sand	C	A_S_C_3	Apseudidae	35
+Abades	sand	C	A_S_C_3	Naididae	7
+Abades	sand	C	A_S_C_3	Onuphidae	1
+Abades	sand	C	A_S_C_3	Enchytraeidae	1
+Abades	sand	C	A_S_C_3	Actiniaria	3
+Abades	sand	C	A_S_C_3	Gammaridea	3
+El Medano	middle	SC	M_M_SC_4.1	Naididae	34
+El Medano	middle	SC	M_M_SC_4.1	Actiniaria	6
+El Medano	middle	SC	M_M_SC_4.1	Ostracoda	3
+El Medano	middle	SC	M_M_SC_4.1	Enchytraeidae	9
+El Medano	middle	SC	M_M_SC_4.1	Onuphidae	1
+El Medano	middle	SC	M_M_SC_4.1	Anarthruridae	1
+El Medano	middle	SC	M_M_SC_4.1	Nematoda	1
+El Medano	middle	SC	M_M_SC_4.1	Solemyidae	2
+El Medano	middle	SC	M_M_SC_4.1	Nassariidae	1
+El Medano	middle	SC	M_M_SC_4.1	Mangeliidae	1
+El Medano	middle	SC	M_M_SC_4.1	Naticidae	1
+El Medano	middle	SC	M_M_SC_4.1	Eulimidae	1
+El Medano	middle	SC	M_M_SC_4.1	Littorinidae	1
+Abades	middle	SC	A_M_SC_5.1	Onuphidae	11
+Abades	middle	SC	A_M_SC_5.1	Anthuridae	1
+Abades	middle	SC	A_M_SC_5.1	Apseudidae	5
+Abades	middle	SC	A_M_SC_5.1	Actiniaria	7
+Abades	middle	SC	A_M_SC_5.1	Ostracoda	6
+Abades	middle	SC	A_M_SC_5.1	Hexapoda	1
+Abades	middle	SC	A_M_SC_5.1	Naididae	1
+Abades	middle	SC	A_M_SC_5.1	Enchytraeidae	5
+Abades	middle	SC	A_M_SC_5.1	Gammaridea	1
+Abades	middle	SC	A_M_SC_5.1	Leptocheliidae	1
+Abades	middle	SC	A_M_SC_5.1	Sipuncula	3
+Abades	middle	SC	A_M_SC_5.1	Solemyidae	2
+Abades	middle	SC	A_M_SC_5.1	Columbellidae	1
+Abades	edge	OP	A_E_OP_1.2	Actiniaria	5
+Abades	edge	OP	A_E_OP_1.2	Apseudidae	10
+Abades	edge	OP	A_E_OP_1.2	Onuphidae	1
+Abades	edge	OP	A_E_OP_1.2	Naididae	17
+Abades	edge	OP	A_E_OP_1.2	Ostracoda	2
+Abades	edge	OP	A_E_OP_1.2	Enchytraeidae	3
+Abades	edge	OP	A_E_OP_1.2	Sigalionidae	1
+Abades	edge	OP	A_E_OP_1.2	Hirudinidae	1
+Abades	edge	OP	A_E_OP_1.2	Solemyidae	1
+Abades	edge	OP	A_E_OP_1.2	Tellinidae	1
+El Medano	edge	C	M_E_C_4	Onuphidae	3
+El Medano	edge	C	M_E_C_4	Gammaridea	3
+El Medano	edge	C	M_E_C_4	Ostracoda	4
+El Medano	edge	C	M_E_C_4	Actiniaria	4
+El Medano	edge	C	M_E_C_4	Maldanidae	5
+El Medano	edge	C	M_E_C_4	Apseudidae	2
+El Medano	edge	C	M_E_C_4	Sipuncula	1
+El Medano	edge	C	M_E_C_4	Anarthruridae	2
+El Medano	edge	C	M_E_C_4	Anthuridae	2
+El Medano	edge	C	M_E_C_4	Leptocheliidae	2
+El Medano	edge	C	M_E_C_4	Naididae	6
+El Medano	edge	C	M_E_C_4	Lumbrineridae	4
+El Medano	edge	C	M_E_C_4	Sabellidae	2
+El Medano	edge	C	M_E_C_4	Enchytraeidae	1
+El Medano	sand	C	M_S_C_1.2	Ostracoda	11
+El Medano	sand	C	M_S_C_1.2	Anarthruridae	1
+El Medano	sand	C	M_S_C_1.2	Cerithiopsidae	1
+El Medano	sand	C	M_S_C_1.2	Trochidae	1
+El Medano	sand	C	M_S_C_1.2	Tellinidae	1
+El Medano	sand	C	M_S_C_1.2	Eulimidae	1
+El Medano	sand	C	M_S_C_1.2	Cardiidae	1
+El Medano	sand	C	M_S_C_1.2	Naticidae	2
+El Medano	sand	C	M_S_C_1.2	Littorinidae	1
+El Medano	middle	OP	M_M_OP_1.2	Onuphidae	13
+El Medano	middle	OP	M_M_OP_1.2	Naididae	7
+El Medano	middle	OP	M_M_OP_1.2	Leptocheliidae	2
+El Medano	middle	OP	M_M_OP_1.2	Sipuncula	2
+El Medano	middle	OP	M_M_OP_1.2	Ostracoda	1
+El Medano	middle	OP	M_M_OP_1.2	Apseudidae	2
+El Medano	middle	OP	M_M_OP_1.2	Anarthruridae	1
+El Medano	middle	OP	M_M_OP_1.2	Majidae	1
+El Medano	middle	OP	M_M_OP_1.2	Eunicidae	1
+El Medano	middle	OP	M_M_OP_1.2	Enchytraeidae	12
+El Medano	middle	OP	M_M_OP_1.2	Anthuridae	1
+El Medano	middle	OP	M_M_OP_1.2	Solemyidae	1
+El Medano	middle	OP	M_M_OP_1.2	Trochidae	2
+El Medano	middle	OP	M_M_OP_1.2	Nassariidae	2
+Abades	middle	C	A_M_C_4.2	Onuphidae	2
+Abades	middle	C	A_M_C_4.2	Ostracoda	3
+Abades	middle	C	A_M_C_4.2	Apseudidae	7
+Abades	middle	C	A_M_C_4.2	Leptocheliidae	1
+Abades	middle	C	A_M_C_4.2	Gammaridea	1
+Abades	middle	C	A_M_C_4.2	Naididae	1
+Abades	middle	C	A_M_C_4.2	Enchytraeidae	11
+Abades	middle	C	A_M_C_4.2	Naticidae	1
+Abades	middle	C	A_M_C_4.2	Solemyidae	1
+Abades	sand	OP	A_S_OP_1.2	Apseudidae	6
+Abades	sand	OP	A_S_OP_1.2	Bodotriidae	1
+Abades	sand	OP	A_S_OP_1.2	Ostracoda	1
+Abades	sand	OP	A_S_OP_1.2	Gammaridea	1
+Abades	sand	OP	A_S_OP_1.2	Naididae	2
+Abades	sand	OP	A_S_OP_1.2	Lumbrineridae	2
+Abades	sand	OP	A_S_OP_1.2	Syllidae	2
+Abades	sand	OP	A_S_OP_1.2	Cerithiopsidae	1
+Abades	sand	OP	A_S_OP_1.2	Eulimidae	1
+Abades	sand	OP	A_S_OP_1.2	Columbellidae	1
+Abades	sand	OP	A_S_OP_1.2	Cardiidae	2
+Abades	sand	OP	A_S_OP_1.2	Tellinidae	4
+Abades	sand	OP	A_S_OP_1.2	Nassariidae	1
+Abades	sand	C	A_S_C_1.1	Ostracoda	3
+Abades	sand	C	A_S_C_1.1	Apseudidae	24
+Abades	sand	C	A_S_C_1.1	Gammaridea	2
+Abades	sand	C	A_S_C_1.1	Actiniaria	6
+Abades	sand	C	A_S_C_1.1	Onuphidae	7
+Abades	sand	C	A_S_C_1.1	Enchytraeidae	13
+Abades	sand	C	A_S_C_1.1	Naididae	9
+Abades	sand	C	A_S_C_1.1	Eulimidae	1
+Abades	sand	C	A_S_C_1.1	Cerithiopsidae	1
+Abades	sand	C	A_S_C_1.1	Nassariidae	1
+Abades	sand	C	A_S_C_1.1	Tellinidae	2
+El Medano	edge	C	M_E_C_1.1	Ostracoda	12
+El Medano	edge	C	M_E_C_1.1	Solemyidae	1
+El Medano	edge	C	M_E_C_1.1	Littorinidae	1
+El Medano	edge	C	M_E_C_1.1	Apseudidae	8
+El Medano	edge	C	M_E_C_1.1	Actiniaria	14
+El Medano	edge	C	M_E_C_1.1	Onuphidae	15
+El Medano	edge	C	M_E_C_1.1	Anarthruridae	2
+El Medano	edge	C	M_E_C_1.1	Anthuridae	2
+El Medano	edge	C	M_E_C_1.1	Naididae	7
+El Medano	edge	C	M_E_C_1.1	Enchytraeidae	1
+El Medano	edge	C	M_E_C_1.1	Eunicidae	1
+El Medano	edge	C	M_E_C_1.1	Epitoniidae	1
+El Medano	middle	OP	M_M_OP_1.1	Ostracoda	3
+El Medano	middle	OP	M_M_OP_1.1	Naididae	8
+El Medano	middle	OP	M_M_OP_1.1	Enchytraeidae	3
+El Medano	middle	OP	M_M_OP_1.1	Paraonidae	1
+El Medano	middle	OP	M_M_OP_1.1	Pycnogonida 	1
+El Medano	middle	OP	M_M_OP_1.1	Onuphidae	3
+El Medano	middle	OP	M_M_OP_1.1	Apseudidae	1
+El Medano	middle	OP	M_M_OP_1.1	Trochidae	1
+El Medano	middle	OP	M_M_OP_1.1	Tellinidae	1
+El Medano	edge	OP	M_E_OP_3	Gammaridea	4
+El Medano	edge	OP	M_E_OP_3	Onuphidae	24
+El Medano	edge	OP	M_E_OP_3	Naididae	10
+El Medano	edge	OP	M_E_OP_3	Ostracoda	12
+El Medano	edge	OP	M_E_OP_3	Apseudidae	5
+El Medano	edge	OP	M_E_OP_3	Syllidae	1
+El Medano	edge	OP	M_E_OP_3	Opheliidae	1
+El Medano	edge	OP	M_E_OP_3	Actiniaria	4
+El Medano	edge	OP	M_E_OP_3	Lumbrineridae	1
+El Medano	edge	OP	M_E_OP_3	Enchytraeidae	4
+El Medano	edge	OP	M_E_OP_3	Anarthruridae	1
+El Medano	edge	OP	M_E_OP_3	Retusidae	1
+El Medano	edge	OP	M_E_OP_3	Rissoidae	1
+El Medano	edge	OP	M_E_OP_3	Solemyidae	1
+El Medano	edge	OP	M_E_OP_3	Naticidae	1
+El Medano	edge	OP	M_E_OP_3	Nassariidae	1
+El Medano	edge	OP	M_E_OP_3	Cardiidae	1
+Abades	edge	C	A_E_C_3.2	Ostracoda	2
+Abades	edge	C	A_E_C_3.2	Gammaridea	1
+Abades	edge	C	A_E_C_3.2	Onuphidae	2
+Abades	edge	C	A_E_C_3.2	Naididae	10
+Abades	edge	C	A_E_C_3.2	Apseudidae	2
+Abades	edge	C	A_E_C_3.2	Enchytraeidae	2
+Abades	edge	SC	A_E_SC_1.2	Onuphidae	2
+Abades	edge	SC	A_E_SC_1.2	Naididae	13
+Abades	edge	SC	A_E_SC_1.2	Actiniaria	6
+Abades	edge	SC	A_E_SC_1.2	Apseudidae	10
+Abades	edge	SC	A_E_SC_1.2	Enchytraeidae	4
+Abades	edge	SC	A_E_SC_1.2	Buccinidae	1
+Abades	edge	SC	A_E_SC_1.2	Cerithiopsidae	1
+Abades	edge	SC	A_E_SC_1.2	Tellinidae	1
+Abades	middle	SC	A_M_SC_4.2	Apseudidae	7
+Abades	middle	SC	A_M_SC_4.2	Enchytraeidae	5
+Abades	middle	SC	A_M_SC_4.2	Copepoda	1
+Abades	middle	SC	A_M_SC_4.2	Ostracoda	1
+Abades	middle	SC	A_M_SC_4.2	Nematoda	1
+Abades	middle	SC	A_M_SC_4.2	Naididae	2
+Abades	middle	SC	A_M_SC_4.2	Syllidae	1
+El Medano	edge	OP	M_E_OP_4.1	Onuphidae	22
+El Medano	edge	OP	M_E_OP_4.1	Actiniaria	18
+El Medano	edge	OP	M_E_OP_4.1	Ostracoda	9
+El Medano	edge	OP	M_E_OP_4.1	Syllidae	4
+El Medano	edge	OP	M_E_OP_4.1	Leptocheliidae	1
+El Medano	edge	OP	M_E_OP_4.1	Anthuridae	3
+El Medano	edge	OP	M_E_OP_4.1	Naididae	3
+El Medano	edge	OP	M_E_OP_4.1	Maldanidae	1
+El Medano	edge	OP	M_E_OP_4.1	Gammaridea	1
+El Medano	edge	OP	M_E_OP_4.1	Trochidae	1
+El Medano	edge	OP	M_E_OP_4.1	Rissoidae	4
+El Medano	edge	OP	M_E_OP_4.1	Cerithiopsidae	1
+El Medano	edge	OP	M_E_OP_4.1	Tellinidae	1
+Abades	middle	OP	A_M_OP_1.1	Onuphidae	1
+Abades	middle	OP	A_M_OP_1.1	Apseudidae	20
+Abades	middle	OP	A_M_OP_1.1	Naididae	9
+Abades	middle	OP	A_M_OP_1.1	Ostracoda	1
+Abades	middle	OP	A_M_OP_1.1	Actiniaria	5
+Abades	middle	OP	A_M_OP_1.1	Gammaridea	2
+Abades	middle	OP	A_M_OP_1.1	Enchytraeidae	3
+Abades	middle	OP	A_M_OP_1.1	Syllidae	1
+Abades	middle	OP	A_M_OP_1.1	Anthuridae	1
+Abades	middle	OP	A_M_OP_1.1	Solemyidae	2
+Abades	middle	OP	A_M_OP_1.1	Cardiidae	1
+Abades	sand	SC	A_S_SC_2	Gammaridea	3
+Abades	sand	SC	A_S_SC_2	Naididae	4
+Abades	sand	SC	A_S_SC_2	Enchytraeidae	1
+Abades	sand	SC	A_S_SC_2	Apseudidae	13
+Abades	sand	SC	A_S_SC_2	Anarthruridae	1
+Abades	sand	SC	A_S_SC_2	Ostracoda	1
+Abades	sand	SC	A_S_SC_2	Cerithiopsidae	3
+Abades	sand	SC	A_S_SC_2	Cylichnidae	2
+Abades	sand	SC	A_S_SC_2	Rissoidae	2
+Abades	sand	SC	A_S_SC_2	Tellinidae	1
+Abades	middle	OP	A_M_OP_4.1	Tellinidae	1
+Abades	middle	OP	A_M_OP_4.1	Solemyidae	1
+Abades	middle	OP	A_M_OP_4.1	Cerithiopsidae	2
+Abades	middle	OP	A_M_OP_4.1	Rissoidae	1
+Abades	middle	OP	A_M_OP_4.1	Naticidae	1
+Abades	middle	OP	A_M_OP_4.1	Cylichnidae	1
+Abades	middle	OP	A_M_OP_4.1	Onuphidae	1
+Abades	middle	OP	A_M_OP_4.1	Apseudidae	14
+Abades	middle	OP	A_M_OP_4.1	Ostracoda	1
+Abades	middle	OP	A_M_OP_4.1	Gammaridea	5
+Abades	middle	OP	A_M_OP_4.1	Enchytraeidae	6
+Abades	middle	OP	A_M_OP_4.1	Syllidae	1
+Abades	middle	OP	A_M_OP_4.1	Leptocheliidae	1
+Abades	middle	OP	A_M_OP_4.1	Naididae	4
+Abades	middle	OP	A_M_OP_4.1	Bonellidae	4
+Abades	edge	OP	A_E_OP_2.2	Onuphidae	3
+Abades	edge	OP	A_E_OP_2.2	Apseudidae	9
+Abades	edge	OP	A_E_OP_2.2	Actiniaria	9
+Abades	edge	OP	A_E_OP_2.2	Paguridae	1
+Abades	edge	OP	A_E_OP_2.2	Enchytraeidae	2
+Abades	edge	OP	A_E_OP_2.2	Naididae	14
+Abades	edge	OP	A_E_OP_2.2	Tellinidae	2
+Abades	edge	OP	A_E_OP_2.2	Cerithiopsidae	2
+Abades	edge	OP	A_E_OP_2.2	Rissoidae	2
+Abades	edge	OP	A_E_OP_2.2	Buccinidae	1
+Abades	edge	OP	A_E_OP_2.2	Solemyidae	1
+Abades	sand	SC	A_S_SC_4.1	Syllidae	1
+Abades	sand	SC	A_S_SC_4.1	Apseudidae	13
+Abades	sand	SC	A_S_SC_4.1	Actiniaria	1
+Abades	sand	SC	A_S_SC_4.1	Onuphidae	1
+Abades	sand	SC	A_S_SC_4.1	Gammaridea	2
+Abades	sand	SC	A_S_SC_4.1	Naididae	8
+Abades	sand	SC	A_S_SC_4.1	Tellinidae	3
+Abades	sand	SC	A_S_SC_4.1	Rissoidae	1
+Abades	sand	SC	A_S_SC_3.1	Apseudidae	13
+Abades	sand	SC	A_S_SC_3.1	Enchytraeidae	2
+Abades	sand	SC	A_S_SC_3.1	Gammaridea	1
+Abades	sand	SC	A_S_SC_3.1	Syllidae	1
+Abades	sand	SC	A_S_SC_3.1	Onuphidae	1
+Abades	sand	SC	A_S_SC_3.1	Tellinidae	2
+Abades	edge	OP	A_E_OP_3.1	Apseudidae	20
+Abades	edge	OP	A_E_OP_3.1	Onuphidae	7
+Abades	edge	OP	A_E_OP_3.1	Actiniaria	21
+Abades	edge	OP	A_E_OP_3.1	Enchytraeidae	14
+Abades	edge	OP	A_E_OP_3.1	Naididae	8
+Abades	edge	OP	A_E_OP_3.1	Ostracoda	11
+Abades	edge	OP	A_E_OP_3.1	Syllidae	1
+Abades	edge	OP	A_E_OP_3.1	Gammaridea	2
+Abades	edge	OP	A_E_OP_3.1	Eunicidae	1
+Abades	edge	OP	A_E_OP_3.1	Cerithiopsidae	3
+Abades	edge	OP	A_E_OP_3.1	Tellinidae	1
+Abades	sand	SC	A_S_SC_1.1	Apseudidae	58
+Abades	sand	SC	A_S_SC_1.1	Cirolanidae	1
+Abades	sand	SC	A_S_SC_1.1	Actiniaria	7
+Abades	sand	SC	A_S_SC_1.1	Ostracoda	4
+Abades	sand	SC	A_S_SC_1.1	Enchytraeidae	4
+Abades	sand	SC	A_S_SC_1.1	Naididae	6
+Abades	sand	SC	A_S_SC_1.1	Syllidae	1
+Abades	sand	SC	A_S_SC_1.1	Gammaridea	1
+Abades	sand	SC	A_S_SC_1.1	Bodotriidae	1
+Abades	sand	SC	A_S_SC_1.1	Onuphidae	1
+Abades	sand	SC	A_S_SC_1.1	Solemyidae	2
+Abades	sand	SC	A_S_SC_1.1	Trochidae	1
+Abades	sand	SC	A_S_SC_1.1	Rissoidae	3
+Abades	sand	SC	A_S_SC_1.1	Naticidae	1
+Abades	sand	SC	A_S_SC_1.1	Eulimidae	2
+Abades	sand	SC	A_S_SC_1.1	Tellinidae	1
+Abades	middle	C	A_M_C_5.1	Onuphidae	3
+Abades	middle	C	A_M_C_5.1	Ostracoda	2
+Abades	middle	C	A_M_C_5.1	Naididae	13
+Abades	middle	C	A_M_C_5.1	Gammaridea	1
+Abades	middle	C	A_M_C_5.1	Apseudidae	4
+Abades	middle	C	A_M_C_5.1	Enchytraeidae	8
+Abades	middle	C	A_M_C_5.1	Anarthruridae	1
+Abades	middle	C	A_M_C_5.1	Actiniaria	3
+Abades	middle	C	A_M_C_5.1	Solemyidae	2
+Abades	middle	C	A_M_C_5.1	Tellinidae	3
+Abades	middle	C	A_M_C_1.2	Onuphidae	1
+Abades	middle	C	A_M_C_1.2	Apseudidae	8
+Abades	middle	C	A_M_C_1.2	Ostracoda	3
+Abades	middle	C	A_M_C_1.2	Gammaridea	1
+Abades	middle	C	A_M_C_1.2	Naididae	3
+Abades	middle	C	A_M_C_1.2	Actiniaria	4
+Abades	middle	C	A_M_C_1.2	Enchytraeidae	2
+Abades	middle	C	A_M_C_1.2	Solemyidae	1
+Abades	middle	C	A_M_C_1.2	Nassariidae	1
+Abades	middle	C	A_M_C_1.2	Tellinidae	2
+Abades	edge	C	A_E_C_1.2	Actiniaria	20
+Abades	edge	C	A_E_C_1.2	Apseudidae	3
+Abades	edge	C	A_E_C_1.2	Onuphidae	3
+Abades	edge	C	A_E_C_1.2	Naididae	28
+Abades	edge	C	A_E_C_1.2	Enchytraeidae	3
+Abades	edge	C	A_E_C_1.2	Hexapoda	1
+Abades	edge	C	A_E_C_1.2	Tellinidae	1
+Abades	edge	C	A_E_C_1.2	Cardiidae	2
+Abades	edge	C	A_E_C_1.2	Cerithiopsidae	1
+El Medano	middle	C	M_M_C_4.2	Onuphidae	2
+El Medano	middle	C	M_M_C_4.2	Ostracoda	2
+El Medano	middle	C	M_M_C_4.2	Apseudidae	4
+El Medano	middle	C	M_M_C_4.2	Actiniaria	3
+El Medano	middle	C	M_M_C_4.2	Naididae	10
+El Medano	middle	C	M_M_C_4.2	Enchytraeidae	2
+El Medano	middle	C	M_M_C_4.2	Leptocheliidae	1
+El Medano	middle	C	M_M_C_4.2	Maldanidae	1
+El Medano	middle	C	M_M_C_4.2	Trochidae	1
+Abades	middle	OP	A_M_OP_2.2	Apseudidae	7
+Abades	middle	OP	A_M_OP_2.2	Ostracoda	3
+Abades	middle	OP	A_M_OP_2.2	Anarthruridae	1
+Abades	middle	OP	A_M_OP_2.2	Enchytraeidae	3
+Abades	middle	OP	A_M_OP_2.2	Onuphidae	2
+Abades	middle	OP	A_M_OP_2.2	Actiniaria	1
+Abades	middle	OP	A_M_OP_2.2	Gammaridea	3
+Abades	middle	OP	A_M_OP_2.2	Solemyidae	2
+Abades	middle	OP	A_M_OP_2.2	Naticidae	2
+Abades	middle	OP	A_M_OP_2.2	Cerithiopsidae	2
+Abades	middle	OP	A_M_OP_2.2	Rissoidae	1
+Abades	middle	OP	A_E_SC_1.1	Actiniaria	17
+Abades	middle	OP	A_E_SC_1.1	Apseudidae	8
+Abades	middle	OP	A_E_SC_1.1	Naididae	8
+Abades	middle	OP	A_E_SC_1.1	Ostracoda	4
+Abades	middle	OP	A_E_SC_1.1	Onuphidae	1
+Abades	middle	OP	A_E_SC_1.1	Naticidae	2
+Abades	middle	OP	A_E_SC_1.1	Tellinidae	2
+Abades	middle	OP	A_E_SC_1.1	Cylichnidae	2
+Abades	middle	OP	A_E_SC_1.1	Cardiidae	1
+Abades	middle	OP	A_E_SC_1.1	Rissoidae	1
+Abades	middle	OP	A_E_SC_1.1	Cerithiopsidae	2
+Abades	sand	OP	A_S_OP_3.2	Onuphidae	1
+Abades	sand	OP	A_S_OP_3.2	Naididae	23
+Abades	sand	OP	A_S_OP_3.2	Enchytraeidae	9
+Abades	sand	OP	A_S_OP_3.2	Apseudidae	15
+Abades	sand	OP	A_S_OP_3.2	Gammaridea	2
+Abades	sand	OP	A_S_OP_3.2	Orbiniidae	3
+Abades	sand	OP	A_S_OP_3.2	Ostracoda	2
+Abades	sand	OP	A_S_OP_3.2	Actiniaria	3
+Abades	sand	OP	A_S_OP_3.2	Maldanidae	1
+El Medano	middle	C	M_M_C_2.1	Onuphidae	8
+El Medano	middle	C	M_M_C_2.1	Cirolanidae	1
+El Medano	middle	C	M_M_C_2.1	Ostracoda	4
+El Medano	middle	C	M_M_C_2.1	Naididae	13
+El Medano	middle	C	M_M_C_2.1	Actiniaria	3
+El Medano	middle	C	M_M_C_2.1	Apseudidae	4
+El Medano	middle	C	M_M_C_2.1	Enchytraeidae	2
+El Medano	middle	C	M_M_C_2.1	Capitellidae	1
+El Medano	middle	C	M_M_C_2.1	Gammaridea	3
+El Medano	middle	C	M_M_C_2.1	Anthuridae	1
+El Medano	middle	C	M_M_C_2.1	Trochidae	4
+El Medano	middle	C	M_M_C_2.1	Naticidae	2
+El Medano	middle	C	M_M_C_2.1	Nassariidae	1
+El Medano	middle	C	M_M_C_2.1	Cardiidae	1
+El Medano	middle	C	M_M_C_2.1	Rissoidae	3
+El Medano	middle	C	M_M_C_5	Ostracoda	4
+El Medano	middle	C	M_M_C_5	Naididae	6
+El Medano	middle	C	M_M_C_5	Enchytraeidae	4
+El Medano	middle	C	M_M_C_5	Solemyidae	3
+El Medano	middle	C	M_M_C_5	Nassariidae	1
+El Medano	middle	C	M_M_C_5	Littorinidae	1
+El Medano	middle	C	M_M_C_5	Rissoidae	1
+Abades	sand	SC	A_S_SC_1	Apseudidae	58
+Abades	sand	SC	A_S_SC_1	Actiniaria	6
+Abades	sand	SC	A_S_SC_1	Ostracoda	3
+Abades	sand	SC	A_S_SC_1	Gammaridea	1
+Abades	sand	SC	A_S_SC_1	Bopyridae	1
+Abades	sand	SC	A_S_SC_1	Bodotriidae	1
+Abades	sand	SC	A_S_SC_1	Onuphidae	1
+Abades	sand	SC	A_S_SC_1	Enchytraeidae	5
+Abades	sand	SC	A_S_SC_1	Eunicidae	3
+Abades	sand	SC	A_S_SC_1	Naididae	7
+Abades	sand	SC	A_S_SC_1	Naticidae	1
+Abades	sand	SC	A_S_SC_1	Solemyidae	2
+Abades	sand	SC	A_S_SC_1	Tellinidae	2
+Abades	sand	SC	A_S_SC_1	Nassariidae	1
+Abades	sand	SC	A_S_SC_1	Pyramidellidae	1
+Abades	sand	SC	A_S_SC_1	Rissoidae	1
+Abades	sand	SC	A_S_SC_1	Eulimidae	4

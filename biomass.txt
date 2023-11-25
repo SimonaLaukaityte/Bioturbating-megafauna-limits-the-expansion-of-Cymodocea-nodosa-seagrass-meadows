@@ -1,0 +1,160 @@
+Site	Habitat	Treatment	Above/Below	Biomass
+Abades	edge	C	A	3,219
+Abades	edge	C	B	0,959
+Abades	edge	C	A	3,725
+Abades	edge	C	B	0,207
+Abades	edge	C	A	4,704
+Abades	edge	C	B	2,382
+Abades	edge	C	A	2,861
+Abades	edge	C	B	0,573
+Abades	edge	OP	A	5,736
+Abades	edge	OP	B	2,429
+Abades	edge	OP	A	1,697
+Abades	edge	OP	B	0,919
+Abades	edge	OP	A	3,53
+Abades	edge	OP	B	2,123
+Abades	edge	OP	A	1,478
+Abades	edge	OP	B	1,203
+Abades	edge	SC	A	1,371
+Abades	edge	SC	B	0,301
+Abades	edge	SC	A	1,718
+Abades	edge	SC	A	1,627
+Abades	edge	SC	B	1,446
+Abades	edge	SC	B	0,576
+Abades	middle	C	A	1,404
+Abades	middle	C	B	3,407
+Abades	middle	C	A	1,351
+Abades	middle	C	B	3,309
+Abades	middle	C	A	2,03
+Abades	middle	C	B	2,29
+Abades	middle	C	B	2,544
+Abades	middle	C	A	0,425
+Abades	middle	C	B	1,678
+Abades	middle	C	A	1,37
+Abades	middle	OP	A	0,835
+Abades	middle	OP	B	0,941
+Abades	middle	OP	A	0,595
+Abades	middle	OP	B	1,816
+Abades	middle	OP	A	0,59
+Abades	middle	OP	B	3,382
+Abades	middle	OP	A	0,891
+Abades	middle	OP	B	1,557
+Abades	middle	OP	A	0,559
+Abades	middle	OP	B	1,696
+Abades	middle	SC	A	2,593
+Abades	middle	SC	B	2,717
+Abades	middle	SC	A	1,036
+Abades	middle	SC	B	2,513
+Abades	middle	SC	A	0,792
+Abades	middle	SC	B	1,52
+Abades	middle	SC	A	0,89
+Abades	middle	SC	B	0,737
+Abades	middle	SC	A	1,266
+Abades	middle	SC	B	1,396
+Abades	sand	C	A	0,045
+Abades	sand	C	B	0,686
+Abades	sand	C	A	0,086
+Abades	sand	C	B	1,064
+Abades	sand	C	B	2,582
+Abades	sand	C	A	0,025
+Abades	sand	C	B	2,503
+Abades	sand	C	A	0,05
+Abades	sand	C	B	0,992
+Abades	sand	OP	B	0,307
+Abades	sand	OP	B	0,168
+Abades	sand	OP	B	0,534
+Abades	sand	OP	B	0,522
+Abades	sand	OP	B	0,081
+Abades	sand	SC	B	0,843
+Abades	sand	SC	A	0,07
+Abades	sand	SC	B	1,816
+Abades	sand	SC	B	0,208
+Abades	sand	SC	B	0,03
+El Medano	edge	C	A	0,12
+El Medano	edge	C	A	0,625
+El Medano	edge	C	B	3,03
+El Medano	edge	C	A	0,414
+El Medano	edge	C	B	6,141
+El Medano	edge	C	A	2,876
+El Medano	edge	C	B	4,205
+El Medano	edge	C	A	1,064
+El Medano	edge	C	B	5,573
+El Medano	edge	OP	A	2,323
+El Medano	edge	OP	B	5,476
+El Medano	edge	OP	A	0,33
+El Medano	edge	OP	B	4,091
+El Medano	edge	OP	A	1,798
+El Medano	edge	OP	B	5,757
+El Medano	edge	OP	A	0,226
+El Medano	edge	OP	B	3,579
+El Medano	edge	OP	A	2,476
+El Medano	edge	OP	B	4,304
+El Medano	edge	OP	A	0,844
+El Medano	edge	OP	B	3,589
+El Medano	edge	SC	A	0,894
+El Medano	edge	SC	B	3,666
+El Medano	edge	SC	A	0,687
+El Medano	edge	SC	B	5,02
+El Medano	edge	SC	A	0,472
+El Medano	edge	SC	B	3,809
+El Medano	edge	SC	A	0,974
+El Medano	edge	SC	B	2,566
+El Medano	edge	SC	A	0,73
+El Medano	edge	SC	B	4,829
+El Medano	middle	C	A	1,073
+El Medano	middle	C	B	6,069
+El Medano	middle	C	A	0,495
+El Medano	middle	C	B	2,849
+El Medano	middle	C	A	0,847
+El Medano	middle	C	B	4,571
+El Medano	middle	C	A	0,793
+El Medano	middle	C	B	4,427
+El Medano	middle	C	A	1,172
+El Medano	middle	C	B	3,714
+El Medano	middle	OP	A	0,083
+El Medano	middle	OP	B	1,524
+El Medano	middle	OP	A	0,949
+El Medano	middle	OP	B	3,779
+El Medano	middle	OP	A	1,003
+El Medano	middle	OP	B	5,722
+El Medano	middle	OP	A	0,003
+El Medano	middle	OP	B	3,238
+El Medano	middle	OP	A	0,177
+El Medano	middle	OP	B	4,719
+El Medano	middle	SC	A	0,903
+El Medano	middle	SC	B	3,632
+El Medano	middle	SC	A	0,502
+El Medano	middle	SC	B	0,941
+El Medano	middle	SC	A	0,6
+El Medano	middle	SC	B	1,42
+El Medano	middle	SC	A	1,284
+El Medano	middle	SC	B	2,231
+El Medano	middle	SC	A	0,597
+El Medano	middle	SC	B	1,973
+El Medano	sand	C	B	0,301
+El Medano	sand	C	A	0,085
+El Medano	sand	C	B	1,858
+El Medano	sand	C	A	0,68
+El Medano	sand	C	B	1,206
+El Medano	sand	C	A	0,337
+El Medano	sand	C	B	0,265
+El Medano	sand	C	A	0,329
+El Medano	sand	C	B	1,526
+El Medano	sand	OP	B	0,013
+El Medano	sand	OP	A	0,014
+El Medano	sand	OP	B	0,043
+El Medano	sand	OP	B	0,118
+El Medano	sand	OP	A	0,012
+El Medano	sand	OP	B	0,193
+El Medano	sand	OP	A	0,298
+El Medano	sand	OP	B	0,067
+El Medano	sand	SC	A	0,007
+El Medano	sand	SC	B	0,021
+El Medano	sand	SC	A	0,084
+El Medano	sand	SC	B	0,216
+El Medano	sand	SC	A	0,041
+El Medano	sand	SC	B	0,328
+El Medano	sand	SC	A	0,031
+El Medano	sand	SC	B	0,073
+El Medano	sand	SC	A	0,004
+El Medano	sand	SC	B	0,033

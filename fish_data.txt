@@ -1,0 +1,138 @@
+date	tide	site	habitat	camera	species	trophic	counts
+30/04/2021	low	Abades	edge	A_E_cam1.1	Bothus podas	carnivore	2
+30/04/2021	low	Abades	edge	A_E_cam1.1	Sparisoma cretense	herbivore	1
+30/04/2021	low	Abades	edge	A_E_cam1.1	Sphoeroides marmoratus	invertivore	1
+10/06/2021	high	Abades	edge	A_E_cam1.2	Bothus podas	carnivore	2
+10/06/2021	high	Abades	edge	A_E_cam1.2	Canthigaster capistrata	invertivore	2
+10/06/2021	high	Abades	edge	A_E_cam1.2	Sphoeroides marmoratus	invertivore	5
+10/06/2021	high	Abades	edge	A_E_cam1.2	Xyruchtys novacula	invertivore	1
+30/10/2021	high	Abades	edge	A_E_cam1.3	Canthigaster capistrata	invertivore	3
+30/10/2021	high	Abades	edge	A_E_cam1.3	Sphoeroides marmoratus	invertivore	4
+30/04/2021	low	Abades	edge	A_E_cam2.1	Pagellus erythrinus	invertivore	1
+30/04/2021	low	Abades	edge	A_E_cam2.1	Sphoeroides marmoratus	invertivore	1
+10/06/2021	high	Abades	edge	A_E_cam2.2	Bothus podas	carnivore	3
+10/06/2021	high	Abades	edge	A_E_cam2.2	Sparisoma cretense	herbivore	18
+10/06/2021	high	Abades	edge	A_E_cam2.2	Canthigaster capistrata	invertivore	3
+10/06/2021	high	Abades	edge	A_E_cam2.2	Sphoeroides marmoratus	invertivore	4
+10/06/2021	high	Abades	edge	A_E_cam2.2	Diplodus sargus cadenati	omnivore	1
+30/10/2021	high	Abades	edge	A_E_cam2.3	Sepia oficinalis	carnivore	1
+30/10/2021	high	Abades	edge	A_E_cam2.3	Sparisoma cretense	herbivore	4
+30/10/2021	high	Abades	edge	A_E_cam2.3	Cryptosoma cristata	omnivore	1
+30/04/2021	low	Abades	edge	A_E_cam3.1	Sparisoma cretense	herbivore	0
+10/06/2021	high	Abades	edge	A_E_cam3.2	Mullus surmuletus	carnivore	3
+10/06/2021	high	Abades	edge	A_E_cam3.2	Sparisoma cretense	herbivore	5
+10/06/2021	high	Abades	edge	A_E_cam3.2	Sphoeroides marmoratus	invertivore	3
+10/06/2021	high	Abades	edge	A_E_cam3.2	Xyruchtys novacula	invertivore	4
+30/10/2021	high	Abades	edge	A_E_cam3.3	Sparisoma cretense	herbivore	2
+30/10/2021	high	Abades	edge	A_E_cam3.3	Canthigaster capistrata	invertivore	1
+30/10/2021	high	Abades	edge	A_E_cam3.3	Sphoeroides marmoratus	invertivore	1
+30/04/2021	low	Abades	middle	A_M_cam1.1	Lithognathus mormyrus	carnivore	1
+30/04/2021	low	Abades	middle	A_M_cam1.1	Sparisoma cretense	herbivore	2
+30/04/2021	low	Abades	middle	A_M_cam1.1	Cryptosoma cristata	omnivore	1
+10/06/2021	high	Abades	middle	A_M_cam1.2	Sparisoma cretense	herbivore	5
+10/06/2021	high	Abades	middle	A_M_cam1.2	Sphoeroides marmoratus	invertivore	1
+30/10/2021	high	Abades	middle	A_M_cam1.3	Bothus podas	carnivore	1
+30/10/2021	high	Abades	middle	A_M_cam1.3	Sparisoma cretense	herbivore	9
+30/10/2021	high	Abades	middle	A_M_cam1.3	Canthigaster capistrata	invertivore	1
+30/10/2021	high	Abades	middle	A_M_cam1.3	Sphoeroides marmoratus	invertivore	1
+30/04/2021	low	Abades	middle	A_M_cam2.1	Bothus podas	carnivore	2
+30/04/2021	low	Abades	middle	A_M_cam2.1	Dasyatis pastinaca	carnivore	1
+30/04/2021	low	Abades	middle	A_M_cam2.1	Sarpa salpa	herbivore	10
+30/04/2021	low	Abades	middle	A_M_cam2.1	Sparisoma cretense	herbivore	4
+30/04/2021	low	Abades	middle	A_M_cam2.1	Pagellus erythrinus	invertivore	1
+30/04/2021	low	Abades	middle	A_M_cam2.1	Xyruchtys novacula	invertivore	5
+30/04/2021	low	Abades	middle	A_M_cam2.1	Stephanolepis hispidus	omnivore	1
+10/06/2021	high	Abades	middle	A_M_cam2.2	Trachinus draco	carnivore	1
+10/06/2021	high	Abades	middle	A_M_cam2.2	Sparisoma cretense	herbivore	2
+30/10/2021	high	Abades	middle	A_M_cam2.3	Sparisoma cretense	herbivore	5
+30/10/2021	high	Abades	middle	A_M_cam2.3	Diplodus sargus cadenati	omnivore	1
+30/04/2021	low	Abades	middle	A_M_cam3.1	Bothus podas	carnivore	2
+30/04/2021	low	Abades	middle	A_M_cam3.1	Sparisoma cretense	herbivore	5
+30/04/2021	low	Abades	middle	A_M_cam3.1	Sphoeroides marmoratus	invertivore	1
+10/06/2021	high	Abades	middle	A_M_cam3.2	Sparisoma cretense	herbivore	13
+10/06/2021	high	Abades	middle	A_M_cam3.2	Sphoeroides marmoratus	invertivore	2
+30/10/2021	high	Abades	middle	A_M_cam3.3	Sparisoma cretense	herbivore	12
+30/10/2021	high	Abades	middle	A_M_cam3.3	Sphoeroides marmoratus	invertivore	2
+30/04/2021	low	Abades	sand	A_S_cam1.1	Bothus podas	carnivore	3
+30/04/2021	low	Abades	sand	A_S_cam1.1	Octopus vulgaris 	invertivore	1
+10/06/2021	high	Abades	sand	A_S_cam1.2	Bothus podas	carnivore	4
+10/06/2021	high	Abades	sand	A_S_cam1.2	Sepia oficinalis	carnivore	1
+10/06/2021	high	Abades	sand	A_S_cam1.2	Trachinus draco	carnivore	1
+10/06/2021	high	Abades	sand	A_S_cam1.2	Sphoeroides marmoratus	invertivore	5
+10/06/2021	high	Abades	sand	A_S_cam1.2	Achelous hastatus	omnivore	1
+30/10/2021	high	Abades	sand	A_S_cam1.3	Bothus podas	carnivore	1
+30/10/2021	high	Abades	sand	A_S_cam1.3	Cryptosoma cristata	omnivore	1
+30/04/2021	low	Abades	sand	A_S_cam2.1	Bothus podas	carnivore	2
+30/04/2021	low	Abades	sand	A_S_cam2.1	Diplodus sargus cadenati	omnivore	2
+30/10/2021	high	Abades	sand	A_S_cam2.3	Diplodus sargus cadenati	omnivore	2
+30/04/2021	low	Abades	sand	A_S_cam3.1	Sphoeroides marmoratus	invertivore	2
+10/06/2021	high	Abades	sand	A_S_cam3.2	Sphoeroides marmoratus	invertivore	1
+30/10/2021	high	Abades	sand	A_S_cam3.3	Bothus podas	carnivore	1
+30/10/2021	high	Abades	sand	A_S_cam3.3	Synodus saurus	piscivore	1
+28/04/2021	rising	El Medano	edge	M_E_cam1.1	Sphoeroides marmoratus	invertivore	11
+29/04/2021	falling	El Medano	edge	M_E_cam1.2	Canthigaster capistrata	invertivore	3
+29/04/2021	falling	El Medano	edge	M_E_cam1.2	Sphoeroides marmoratus	invertivore	3
+14/09/2021	low	El Medano	edge	M_E_cam1.4	Bothus podas	carnivore	1
+14/09/2021	low	El Medano	edge	M_E_cam1.4	Lithognathus mormyrus	carnivore	4
+14/09/2021	low	El Medano	edge	M_E_cam1.4	Sarpa salpa	herbivore	1
+14/09/2021	low	El Medano	edge	M_E_cam1.4	Sparisoma cretense	herbivore	7
+14/09/2021	low	El Medano	edge	M_E_cam1.4	Canthigaster capistrata	invertivore	2
+28/04/2021	rising	El Medano	edge	M_E_cam2.1	Canthigaster capistrata	invertivore	5
+28/04/2021	rising	El Medano	edge	M_E_cam2.1	Sphoeroides marmoratus	invertivore	9
+29/04/2021	falling	El Medano	edge	M_E_cam2.2	Canthigaster capistrata	invertivore	3
+29/04/2021	falling	El Medano	edge	M_E_cam2.2	Sphoeroides marmoratus	invertivore	10
+14/09/2021	low	El Medano	edge	M_E_cam2.4	Lithognathus mormyrus	carnivore	2
+14/09/2021	low	El Medano	edge	M_E_cam2.4	Sparisoma cretense	herbivore	9
+14/09/2021	low	El Medano	edge	M_E_cam2.4	Canthigaster capistrata	invertivore	4
+14/09/2021	low	El Medano	edge	M_E_cam2.4	Diplodus annularis	omnivore	1
+28/04/2021	rising	El Medano	edge	M_E_cam3.1	Bothus podas	carnivore	3
+28/04/2021	rising	El Medano	edge	M_E_cam3.1	Trachinus draco	carnivore	2
+28/04/2021	rising	El Medano	edge	M_E_cam3.1	Sphoeroides marmoratus	invertivore	9
+29/04/2021	falling	El Medano	edge	M_E_cam3.2	Canthigaster capistrata	invertivore	1
+29/04/2021	falling	El Medano	edge	M_E_cam3.2	Sphoeroides marmoratus	invertivore	2
+29/04/2021	falling	El Medano	edge	M_E_cam3.2	Stephanolepis hispidus	omnivore	1
+14/09/2021	low	El Medano	edge	M_E_cam3.4	Sparisoma cretense	herbivore	4
+14/09/2021	low	El Medano	edge	M_E_cam3.4	Canthigaster capistrata	invertivore	1
+28/04/2021	rising	El Medano	middle	M_M_cam1.1	Sphoeroides marmoratus	invertivore	2
+14/09/2021	low	El Medano	middle	M_M_cam1.4	Aulostomus strigosus	piscivore	1
+14/09/2021	low	El Medano	middle	M_M_cam1.4	Bothus podas	carnivore	1
+14/09/2021	low	El Medano	middle	M_M_cam1.4	Seranus cabrilla	carnivore	1
+14/09/2021	low	El Medano	middle	M_M_cam1.4	Sparisoma cretense	herbivore	3
+14/09/2021	low	El Medano	middle	M_M_cam1.4	Sphoeroides marmoratus	invertivore	1
+14/09/2021	low	El Medano	middle	M_M_cam1.4	Stephanolepis hispidus	omnivore	3
+28/04/2021	rising	El Medano	middle	M_M_cam2.1	Sparisoma cretense	herbivore	1
+28/04/2021	rising	El Medano	middle	M_M_cam2.1	Sphoeroides marmoratus	omnivore	2
+14/09/2021	low	El Medano	middle	M_M_cam2.4	Lithognathus mormyrus	carnivore	6
+14/09/2021	low	El Medano	middle	M_M_cam2.4	Mullus surmuletus	carnivore	1
+14/09/2021	low	El Medano	middle	M_M_cam2.4	Seranus cabrilla	carnivore	2
+14/09/2021	low	El Medano	middle	M_M_cam2.4	Sarpa salpa	herbivore	1
+14/09/2021	low	El Medano	middle	M_M_cam2.4	Sparisoma cretense	herbivore	2
+14/09/2021	low	El Medano	middle	M_M_cam2.4	Sphoeroides marmoratus	invertivore	1
+14/09/2021	low	El Medano	middle	M_M_cam2.4	Diplodus annularis	omnivore	10
+28/04/2021	rising	El Medano	middle	M_M_cam3.1	Sphoeroides marmoratus	invertivore	4
+14/09/2021	low	El Medano	middle	M_M_cam3.4	Bothus podas	carnivore	3
+14/09/2021	low	El Medano	middle	M_M_cam3.4	Sparisoma cretense	herbivore	1
+14/09/2021	low	El Medano	middle	M_M_cam3.4	Diplodus annularis	omnivore	1
+14/09/2021	low	El Medano	middle	M_M_cam3.4	Stephanolepis hispidus	omnivore	1
+28/04/2021	rising	El Medano	sand	M_S_cam1.1	Bothus podas	carnivore	5
+28/04/2021	rising	El Medano	sand	M_S_cam1.1	Trachinus draco	carnivore	3
+28/04/2021	rising	El Medano	sand	M_S_cam1.1	Sphoeroides marmoratus	invertivore	2
+29/04/2021	falling	El Medano	sand	M_S_cam1.2	Bothus podas	carnivore	4
+29/04/2021	falling	El Medano	sand	M_S_cam1.2	Sphoeroides marmoratus	invertivore	5
+14/09/2021	low	El Medano	sand	M_S_cam1.4	Bothus podas	carnivore	2
+14/09/2021	low	El Medano	sand	M_S_cam1.4	Lithognathus mormyrus	carnivore	22
+14/09/2021	low	El Medano	sand	M_S_cam1.4	Trachinus draco	carnivore	1
+29/04/2021	falling	El Medano	sand	M_S_cam2.2	Bothus podas	carnivore	2
+29/04/2021	falling	El Medano	sand	M_S_cam2.2	Canthigaster capistrata	invertivore	3
+29/04/2021	falling	El Medano	sand	M_S_cam2.2	Pagellus erythrinus	invertivore	1
+29/04/2021	falling	El Medano	sand	M_S_cam2.2	Sphoeroides marmoratus	invertivore	3
+14/09/2021	low	El Medano	sand	M_S_cam2.4	Bothus podas	carnivore	2
+14/09/2021	low	El Medano	sand	M_S_cam2.4	Lithognathus mormyrus	carnivore	1
+28/04/2021	rising	El Medano	sand	M_S_cam3.1	Bothus podas	carnivore	1
+28/04/2021	rising	El Medano	sand	M_S_cam3.1	Sepia oficinalis	carnivore	1
+28/04/2021	rising	El Medano	sand	M_S_cam3.1	Canthigaster capistrata	invertivore	1
+28/04/2021	rising	El Medano	sand	M_S_cam3.1	Sphoeroides marmoratus	invertivore	1
+29/04/2021	falling	El Medano	sand	M_S_cam3.2	Sphoeroides marmoratus	invertivore	5
+14/09/2021	low	El Medano	sand	M_S_cam3.4	Bothus podas	carnivore	1
+14/09/2021	low	El Medano	sand	M_S_cam3.4	Lithognathus mormyrus	carnivore	8
+14/09/2021	low	El Medano	sand	M_S_cam3.4	Trachinus draco	carnivore	1

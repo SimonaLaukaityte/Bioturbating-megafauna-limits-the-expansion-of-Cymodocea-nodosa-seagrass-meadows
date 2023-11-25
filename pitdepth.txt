@@ -1,0 +1,37 @@
+date	site	habitat	depth	volume
+2021-08-12	Abades	Edge	7	446.25
+2021-08-12	Abades	Edge	4.5	2866.5
+2021-08-12	Abades	Edge	2	2075
+2021-08-12	Abades	Edge	3	1320
+2021-08-12	Abades	Edge	2	714
+2021-08-12	Abades	Edge	2.5	910.625
+2021-08-12	Abades	Edge	2.5	658.75
+2021-08-12	Abades	Edge	6	8100
+2021-08-12	Abades	Edge	5	4812.5
+2021-08-12	Abades	Edge	3	2632.5
+2021-08-12	Abades	Edge	3	2145
+2021-08-10	El Medano	Edge	4.5	2531.25
+2021-08-10	El Medano	Edge	7	7045.5
+2021-08-10	El Medano	Edge	5	1050
+2021-08-10	El Medano	Edge	14	7350
+2021-08-12	Abades	Middle	5	2137.5
+2021-08-12	Abades	Middle	2.5	3040
+2021-08-12	Abades	Middle	3	1782
+2021-08-12	Abades	Middle	1.5	3562.5
+2021-08-12	Abades	Middle	3	1029
+2021-08-12	Abades	Middle	8.9	8410.5
+2021-08-12	Abades	Middle	6	5916
+2021-08-12	Abades	Middle	3	1984.5
+2021-08-12	Abades	Middle	3	1386
+2021-08-12	Abades	Middle	4	1575
+2021-08-12	Abades	Middle	2.5	871.875
+2021-08-12	Abades	Sand	5	1800
+2021-08-12	Abades	Sand	4.5	1842.75
+2021-08-12	Abades	Sand	5.5	1497.375
+2021-08-10	El Medano	Sand	9	3289.5
+2021-08-10	El Medano	Sand	5	2220
+2021-08-10	El Medano	Sand	8	3822
+2021-08-10	El Medano	Sand	4	1326
+2021-08-10	El Medano	Sand	4	1520
+2021-08-10	El Medano	Sand	5	1162.5
+2021-08-10	El Medano	Sand	3	1312.5

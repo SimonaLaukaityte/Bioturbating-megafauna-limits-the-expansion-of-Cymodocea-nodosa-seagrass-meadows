@@ -1,0 +1,173 @@
+season	site	habitat	treatment	shoots in 0.25 m2
+high	El Medano	Edge	circle	338
+high	El Medano	Edge	circle	311
+high	El Medano	Edge	circle	241
+high	El Medano	Edge	circle	71
+high	El Medano	Edge	circle	139
+high	El Medano	Edge	circle	103
+high	El Medano	Middle	circle	216
+high	El Medano	Middle	circle	339
+high	El Medano	Middle	circle	234
+high	El Medano	Middle	circle	107
+high	El Medano	Middle	circle	83
+high	El Medano	Sand	circle	59
+high	El Medano	Sand	circle	41
+high	El Medano	Sand	circle	107
+high	El Medano	Sand	circle	35
+high	El Medano	Sand	circle	52
+high	El Medano	Edge	semi-circle	315
+high	El Medano	Edge	semi-circle	280
+high	El Medano	Edge	semi-circle	216
+high	El Medano	Edge	semi-circle	235
+high	El Medano	Edge	semi-circle	192
+high	El Medano	Middle	semi-circle	241
+high	El Medano	Middle	semi-circle	241
+high	El Medano	Middle	semi-circle	296
+high	El Medano	Middle	semi-circle	176
+high	El Medano	Middle	semi-circle	219
+high	El Medano	Sand	semi-circle	30
+high	El Medano	Sand	semi-circle	18
+high	El Medano	Sand	semi-circle	69
+high	El Medano	Sand	semi-circle	30
+high	El Medano	Sand	semi-circle	20
+high	Abades	Edge	circle	119
+high	Abades	Edge	open plot	263
+high	Abades	Sand	circle	44
+high	Abades	Sand	circle	98
+high	Abades	Sand	circle	25
+high	Abades	Sand	circle	65
+high	Abades	Sand	circle	88
+high	Abades	Sand	open plot	96
+high	Abades	Sand	open plot	98
+high	Abades	Sand	open plot	81
+high	Abades	Sand	open plot	32
+high	Abades	Sand	open plot	17
+high	Abades	Edge	circle	184
+high	Abades	Edge	circle	183
+high	Abades	Edge	circle	132
+high	Abades	Edge	circle	257
+high	Abades	Edge	semi-circle	72
+high	Abades	Edge	semi-circle	102
+high	Abades	Edge	semi-circle	135
+high	Abades	Edge	semi-circle	114
+high	Abades	Middle	circle	241
+high	Abades	Middle	circle	177
+high	Abades	Middle	circle	154
+high	Abades	Middle	circle	152
+high	Abades	Middle	circle	173
+high	Abades	Middle	open plot	108
+high	Abades	Middle	open plot	106
+high	Abades	Middle	open plot	134
+high	Abades	Middle	open plot	175
+high	Abades	Middle	open plot	156
+high	Abades	Middle	semi-circle	134
+high	Abades	Middle	semi-circle	165
+high	Abades	Middle	semi-circle	144
+high	Abades	Middle	semi-circle	116
+high	Abades	Middle	semi-circle	68
+high	Abades	Sand	semi-circle	119
+high	Abades	Sand	semi-circle	130
+high	Abades	Sand	semi-circle	28
+high	Abades	Sand	semi-circle	9
+high	Abades	Sand	semi-circle	13
+high	Abades	Edge	open plot	95
+high	Abades	Edge	open plot	252
+high	Abades	Edge	open plot	193
+high	Abades	Edge	open plot	212
+high	Abades	Edge	open plot	140
+high	El Medano	Sand	open plot	31
+high	El Medano	Sand	open plot	29
+high	El Medano	Sand	open plot	63
+high	El Medano	Sand	open plot	26
+high	El Medano	Sand	open plot	74
+high	El Medano	Edge	open plot	235
+high	El Medano	Edge	open plot	154
+high	El Medano	Edge	open plot	158
+high	El Medano	Edge	open plot	249
+high	El Medano	Edge	open plot	292
+high	El Medano	Middle	open plot	162
+high	El Medano	Middle	open plot	172
+high	El Medano	Middle	open plot	257
+high	El Medano	Middle	open plot	235
+high	El Medano	Middle	open plot	109
+low	El Medano	Sand	circle	48
+low	El Medano	Sand	circle	69
+low	El Medano	Sand	circle	48
+low	El Medano	Sand	circle	46
+low	El Medano	Sand	circle	54
+low	El Medano	Sand	semi-circle	22
+low	El Medano	Sand	semi-circle	15
+low	El Medano	Sand	semi-circle	17
+low	El Medano	Sand	semi-circle	30
+low	El Medano	Sand	semi-circle	15
+low	El Medano	Sand	open plot	3
+low	El Medano	Sand	open plot	0
+low	El Medano	Sand	open plot	13
+low	El Medano	Sand	open plot	0
+low	El Medano	Sand	open plot	17
+low	El Medano	Edge	circle	184
+low	El Medano	Edge	circle	150
+low	El Medano	Edge	circle	218
+low	El Medano	Edge	circle	229
+low	El Medano	Edge	circle	182
+low	El Medano	Edge	semi-circle	265
+low	El Medano	Edge	semi-circle	332
+low	El Medano	Edge	semi-circle	171
+low	El Medano	Edge	semi-circle	246
+low	El Medano	Edge	semi-circle	304
+low	El Medano	Edge	open plot	217
+low	El Medano	Edge	open plot	121
+low	El Medano	Edge	open plot	323
+low	El Medano	Edge	open plot	169
+low	El Medano	Edge	open plot	227
+low	El Medano	Middle	circle	219
+low	El Medano	Middle	circle	278
+low	El Medano	Middle	circle	249
+low	El Medano	Middle	circle	314
+low	El Medano	Middle	circle	304
+low	El Medano	Middle	semi-circle	216
+low	El Medano	Middle	semi-circle	270
+low	El Medano	Middle	semi-circle	404
+low	El Medano	Middle	open plot	356
+low	El Medano	Middle	open plot	277
+low	El Medano	Middle	open plot	97
+low	Abades	Edge	circle	154
+low	Abades	Edge	circle	142
+low	Abades	Edge	circle	123
+low	Abades	Edge	circle	186
+low	Abades	Edge	circle	132
+low	Abades	Middle	circle	178
+low	Abades	Middle	circle	103
+low	Abades	Middle	circle	123
+low	Abades	Middle	circle	207
+low	Abades	Middle	circle	102
+low	Abades	Middle	semi-circle	137
+low	Abades	Middle	semi-circle	152
+low	Abades	Middle	semi-circle	176
+low	Abades	Middle	semi-circle	203
+low	Abades	Middle	semi-circle	162
+low	Abades	Edge	semi-circle	239
+low	Abades	Edge	semi-circle	155
+low	Abades	Edge	semi-circle	120
+low	Abades	Sand	circle	34
+low	Abades	Sand	circle	32
+low	Abades	Sand	circle	18
+low	Abades	Sand	circle	61
+low	Abades	Sand	circle	51
+low	Abades	Sand	semi-circle	7
+low	Abades	Sand	semi-circle	3
+low	Abades	Sand	semi-circle	2
+low	Abades	Sand	open plot	4
+low	Abades	Sand	open plot	7
+low	Abades	Sand	open plot	3
+low	Abades	Sand	open plot	8
+low	Abades	Edge	open plot	59
+low	Abades	Edge	open plot	53
+low	Abades	Edge	open plot	35
+low	Abades	Edge	open plot	63
+low	Abades	Edge	open plot	86
+low	Abades	Middle	open plot	84
+low	Abades	Middle	open plot	80
+low	Abades	Middle	open plot	102
+low	Abades	Middle	open plot	102
+low	Abades	Middle	open plot	82

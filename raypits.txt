@@ -1,0 +1,19 @@
+date	site	habitat	pits
+2021-08-10	El Medano	sand	7
+2021-08-10	El Medano	edge	4
+2021-08-10	El Medano	middle	0
+2021-09-03	El Medano	sand	18
+2021-09-03	El Medano	edge	0
+2021-09-03	El Medano	middle	14
+2021-09-06	El Medano	sand	16
+2021-09-06	El Medano	edge	14
+2021-09-06	El Medano	middle	10
+2021-08-12	Abades	sand	3
+2021-08-12	Abades	edge	10
+2021-08-12	Abades	middle	11
+2021-09-04	Abades	sand	9
+2021-09-04	Abades	edge	0
+2021-09-04	Abades	middle	5
+2021-09-07	Abades	sand	8
+2021-09-07	Abades	edge	9
+2021-09-07	Abades	middle	4
